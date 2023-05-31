@@ -2,6 +2,7 @@
 
 require 'pry'
 require_relative '../config/environment'
-
+require_relative '../lib/song'
 binding.pry
 "pls"
+
